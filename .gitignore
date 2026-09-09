@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Large datasets
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.zip
+
+# Models
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
